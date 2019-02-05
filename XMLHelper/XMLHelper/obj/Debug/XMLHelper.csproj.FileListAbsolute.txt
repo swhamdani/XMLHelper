@@ -8,3 +8,13 @@ D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Debug\XMLHelper.csproj.CoreCom
 D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Debug\XMLHelper.exe
 D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Debug\XMLHelper.pdb
 D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Debug\XMLHelper.csprojAssemblyReference.cache
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\bin\Debug\XMLHelper.exe.config
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\bin\Debug\XMLHelper.exe
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\bin\Debug\XMLHelper.pdb
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\obj\Debug\XMLHelper.csprojAssemblyReference.cache
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\obj\Debug\XMLHelper.Form1.resources
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\obj\Debug\XMLHelper.Properties.Resources.resources
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\obj\Debug\XMLHelper.csproj.GenerateResource.cache
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\obj\Debug\XMLHelper.csproj.CoreCompileInputs.cache
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\obj\Debug\XMLHelper.exe
+C:\Users\Wasif\source\repos\XMLHelper\XMLHelper\XMLHelper\obj\Debug\XMLHelper.pdb

@@ -11,7 +11,7 @@ namespace XMLHelper
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)      //Extract Text from XML String Button
         {
 
             if(stringsTxtBox.Text.Length > 0)
@@ -51,13 +51,13 @@ namespace XMLHelper
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)      //Clear All Textbox Button
         {
             stringsTxtBox.Text = "";
             valuesTxtBox.Text = "";
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)      //Create XML String from Text Button
         {
             string[] itemList = valuesTxtBox.Text.Replace("\r", "").Split('\n');
 
