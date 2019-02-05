@@ -8,4 +8,5 @@ This way you'll get Text from each of the xml node, in the same order.
 Conversely, if you have a list of texts and you want to create an XML string, paste this list on the Right textbox and press Create XML String... button. 
 In the same textbox, you'll get the generated XML String. By default, first node will be <root> and every other text has <node> tag.
 
-I strong welcome participation from any volunteer who is willing to devote passion and time to help. 
+# Contributing Code, Reporting Bugs and Suggesting Features
+I strong welcome participation from any volunteer who is willing to devote passion and time to make this utility tool much better.
