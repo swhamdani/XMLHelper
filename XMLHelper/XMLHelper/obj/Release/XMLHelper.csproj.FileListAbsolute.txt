@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\XMLHelper\XMLHelper\bin\Release\XMLHelper.exe.config
+D:\Visual Studio Projects\XMLHelper\XMLHelper\bin\Release\XMLHelper.exe
+D:\Visual Studio Projects\XMLHelper\XMLHelper\bin\Release\XMLHelper.pdb
+D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Release\XMLHelper.csprojAssemblyReference.cache
+D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Release\XMLHelper.Form1.resources
+D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Release\XMLHelper.Properties.Resources.resources
+D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Release\XMLHelper.csproj.GenerateResource.cache
+D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Release\XMLHelper.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Release\XMLHelper.exe
+D:\Visual Studio Projects\XMLHelper\XMLHelper\obj\Release\XMLHelper.pdb
