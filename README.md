@@ -9,4 +9,4 @@ Conversely, if you have a list of texts and you want to create an XML string, pa
 In the same textbox, you'll get the generated XML String. By default, first node will be <root> and every other text has <node> tag.
 
 # Contributing Code, Reporting Bugs and Suggesting Features
-I strong welcome participation from any volunteer who is willing to devote passion and time to make this utility tool much better.
+I strong welcome participation from any volunteer who is willing to devote passion and time to make this utility tool even more helpful.
